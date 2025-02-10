@@ -10,7 +10,7 @@
 - **Natural Language Processing(NLP)** - Processing text data to extract insights, such as tendency and emition classification *[Reference](https://github.com/ISL-0111/IDS703_NLP_Project_Political_Tendency_Analysis/blob/main/README.md)*
 - **Data Engineering** - Building data pipelines and deploying services *[Reference](https://github.com/ISL-0111/IDS706_DataEngineering_Final_Project)*
 - **Statistical Modeling** - Transforming data into strategic implications *[Reference](https://github.com/cathylyirang/IDS702_Project_Group_5)*, *[Referene](https://github.com/ISL-0111/IDS720_Opiod_Regulation_Policy_Analysis)*
-- **Domain Knowledge** - People Analytics (e.g., Organizational Diagnosis, Workforce Analysis), Energy Industry (e.g., Energy Transformation, Utility Market)
+- **Domain Knowledge** - People Analytics (e.g., Organizational Diagnosis, Workforce Analysis), Energy Industry (e.g., Utility Market)
 
 
 ### 💻Technical Skills
@@ -24,7 +24,7 @@
 - Project Managment Professional(`16)
 - Engineering Information Processing(`15)
 
-### 📖 Education 
+### 📈 Education 
 ***
 - **Duke University**- MS in Data Science(`26)
 - **Konkuk Univeristy**- BA in Information Science & BA in Business Administration (Dual Degree)
