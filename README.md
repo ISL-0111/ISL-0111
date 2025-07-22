@@ -21,6 +21,7 @@
 
 
 **Certification**:
+- AWS AI practioner('25)
 - Project Managment Professional(`16)
 - Engineering Information Processing(`15)
 
@@ -32,7 +33,6 @@
 ### 🏆 Award
 ***
 - 3rd Prize at the Data Utilization Contest, Ministry of Trade, Industry, and Energy of Korea(`15)
-
 
 <!--
 **ISL-0111/ISL-0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
