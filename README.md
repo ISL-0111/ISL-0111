@@ -10,6 +10,7 @@
 - **Natural Language Processing(NLP)** - Processing text data to extract insights, such as tendency and emition classification *[Reference](https://github.com/ISL-0111/IDS703_NLP_Project_Political_Tendency_Analysis/blob/main/README.md)*
 - **Data Engineering** - Building data pipelines and deploying services *[Reference](https://github.com/ISL-0111/IDS706_DataEngineering_Final_Project)*
 - **Statistical Modeling** - Transforming data into strategic implications *[Reference](https://github.com/cathylyirang/IDS702_Project_Group_5)*, *[Referene](https://github.com/ISL-0111/IDS720_Opiod_Regulation_Policy_Analysis)*
+- **Computer Vision** - Object detection and semantic segmentation *[Reference](https://github.com/ISL-0111/climateplus2025)*
 - **Domain Knowledge** - People Analytics, Power & Utility Industry
 
 
