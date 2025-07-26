@@ -5,7 +5,7 @@
 
 --------------
 
-### 📎Key area of Interest 
+### 📎Area of Interest 
 - **Machine Learning** - Building predictive and prescriptive models
 - **Natural Language Processing(NLP)** - Processing text data to extract insights, such as tendency and emition classification *[Reference](https://github.com/ISL-0111/IDS703_NLP_Project_Political_Tendency_Analysis/blob/main/README.md)*
 - **Data Engineering** - Building data pipelines and deploying services *[Reference](https://github.com/ISL-0111/IDS706_DataEngineering_Final_Project)*
