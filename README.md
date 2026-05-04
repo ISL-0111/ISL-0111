@@ -1,7 +1,7 @@
 ## Ilseop(Shawn) Lee 
 **Data Scientist in Training | Duke University('26)**
 
-  I am a Master of Science student in Interdisciplinary Data Science at Duke University, leveraging my expertise in **Human Resource Management** and the **Energy Industry** to drive insights with advanced analytics. I am passionate about **Natural Language Processing (NLP)**, **Machine Learning**, **Statistical Modeling**, and **Data Engineering**.
+  I am a Master’s Candidate in Data Science at Duke University, leveraging my background in Human Resource Management and the Energy Industry to drive impactful insights through advanced analytics. I specialize in Natural Language Processing (NLP), Object Detection (Computer Vision), and Machine Learning.
 
 --------------
 
