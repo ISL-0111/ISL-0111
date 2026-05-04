@@ -22,14 +22,14 @@
 
 
 **Certification**:
-- AWS AI practioner('25)
-- Project Managment Professional(`16)
+- AWS AI practitioner('25)
+- Project Management Professional(`16)
 - Engineering Information Processing(`15)
 
 ### 📈 Education 
 ***
 - **Duke University**- MS in Data Science(`26)
-- **Konkuk Univeristy**- BA in Information Science & BA in Business Administration (Dual Degree)
+- **Konkuk University**- BA in Information Science & BA in Business Administration (Dual Degree)
 
 ### 🏆 Award
 ***
