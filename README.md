@@ -16,7 +16,7 @@
 
 ### 💻Technical Skills
 ***
-- **Programming**: Python(Scikit-learn, Pandas, Numpy, R
+- **Programming**: Python(Scikit-learn, Pandas, Numpy), R
 - **Data Processing**: SQL, Databricks
 - **Skills**: NLP, Machine Learning, Data Visualization, Data Pipeline
 
